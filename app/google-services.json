@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854314090649",
+    "project_id": "d2v-task",
+    "storage_bucket": "d2v-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854314090649:android:62ab188d2c0f69ece2b808",
+        "android_client_info": {
+          "package_name": "com.example.d2vtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyN4rGLibLYkaCh0z2T1sQdHkLo7Fhhp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
